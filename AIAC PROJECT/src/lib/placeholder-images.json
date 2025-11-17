@@ -1,0 +1,52 @@
+{
+  "placeholderImages": [
+    {
+      "id": "1",
+      "description": "A placeholder image of a wallet.",
+      "imageUrl": "https://images.unsplash.com/photo-1614330316567-11d8e572db16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx3YWxsZXR8ZW58MHx8fHwxNzYzMzA1OTIxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wallet"
+    },
+    {
+      "id": "2",
+      "description": "A placeholder image of a water bottle.",
+      "imageUrl": "https://images.unsplash.com/photo-1605608800690-9e496dfdac1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx3YXRlciUyMGJvdHRsZXxlbnwwfHx8fDE3NjMzODQzNTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "water bottle"
+    },
+    {
+      "id": "3",
+      "description": "A placeholder image of keys.",
+      "imageUrl": "https://images.unsplash.com/flagged/photo-1564767609342-620cb19b2357?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxrZXlzfGVufDB8fHx8MTc2MzM3NzA1M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "keys"
+    },
+    {
+      "id": "4",
+      "description": "A placeholder image of a backpack.",
+      "imageUrl": "https://images.unsplash.com/photo-1622560480654-d96214fdc887?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxiYWNrcGFja3xlbnwwfHx8fDE3NjMyNzc3MTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "backpack"
+    },
+    {
+      "id": "5",
+      "description": "A placeholder image of a phone.",
+      "imageUrl": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwaG9uZXxlbnwwfHx8fDE3NjMzNjM3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "phone"
+    },
+    {
+      "id": "6",
+      "description": "A placeholder image of sunglasses.",
+      "imageUrl": "https://images.unsplash.com/photo-1508296695146-257a814070b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzdW5nbGFzc2VzfGVufDB8fHx8MTc2MzI3NzM2NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sunglasses"
+    },
+    {
+      "id": "7",
+      "description": "A placeholder image of an ID card.",
+      "imageUrl": "https://images.unsplash.com/photo-1649694901735-b33d3cf95236?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxpZCUyMGNhcmR8ZW58MHx8fHwxNzYzMzgzNTgzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "id card"
+    },
+    {
+      "id": "8",
+      "description": "A placeholder image of a scarf.",
+      "imageUrl": "https://images.unsplash.com/photo-1606259458027-54d2a728b6ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c2NhcmZ8ZW58MHx8fHwxNzYzMzI1MjUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "scarf"
+    }
+  ]
+}
